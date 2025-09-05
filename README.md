@@ -32,6 +32,9 @@ This is my **first C project** — a simple calculator program that runs in the 
 4. Division
 5. Modulus
 6. Exit
+
 Choose between 1-6: 1
+
 Enter two numbers: 5 7
+
 The result = 12.00
